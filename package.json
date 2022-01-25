@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "author": "Samir Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}
